@@ -1,0 +1,86 @@
+{
+  "default": [
+    {
+      "user": "Do you have dental surgery",
+      "assistant": "I’m not sure about that — let me connect you with a hospital staff member for further help."
+    },
+    {
+      "user": "Where are you guys located?",
+      "assistant": "I’m not sure about that — let me connect you with a hospital staff member for further help."
+    },
+    {
+      "user": "Where are you guys located?",
+      "assistant": "I’m not sure about that — let me connect you with a hospital staff member for further help."
+    },
+    {
+      "user": "Where are you guys located?",
+      "assistant": "I'm not sure about that specific information. Please contact the hospital directly at +251 113 47 16 32 for assistance."
+    },
+    {
+      "user": "Where are you guys located?",
+      "assistant": "I'm not sure about that specific information. Please contact the hospital directly at +251 113 47 16 32 for assistance."
+    },
+    {
+      "user": "Where are you guys located?",
+      "assistant": "I'm not sure about that specific information. Please contact the hospital directly at +251 113 47 16 32 for assistance."
+    },
+    {
+      "user": "Where are you guys located?",
+      "assistant": "I don't have that specific information in my knowledge base. Please contact the hospital directly at +251 113 47 16 32 for assistance."
+    },
+    {
+      "user": "When was the hospital started",
+      "assistant": "I don't have that specific information in my knowledge base. Please contact the hospital directly at +251 113 47 16 32 for assistance."
+    },
+    {
+      "user": "Where are you located",
+      "assistant": "I don't have that specific information in my knowledge base. Please contact the hospital directly at +251 113 47 16 32 for assistance."
+    },
+    {
+      "user": "When was the hospital started",
+      "assistant": "Hello! ALERT Comprehensive Specialized Hospital was established in 1934. It was originally founded as a leprosarium by the Sudan Interior Mission (SIM) and was first named Princess Zenebework Memorial Hospital (Source 1: hospital_overview)."
+    },
+    {
+      "user": "When was the hospital started",
+      "assistant": "Hello! ALERT Comprehensive Specialized Hospital was established in 1934. It was originally founded as a leprosarium by the Sudan Interior Mission (SIM) and was first named Princess Zenebework Memorial Hospital (Source 1: hospital_overview)."
+    },
+    {
+      "user": "Where is the hospital located?",
+      "assistant": "I don't have that specific information in my knowledge base. Please contact the hospital directly at +251 113 47 16 32 for assistance."
+    },
+    {
+      "user": "Where is the hospital located?",
+      "assistant": "I don't have that specific information in my knowledge base. Please contact the hospital directly at +251 113 47 16 32 for assistance."
+    },
+    {
+      "user": "Where is the hospital located?",
+      "assistant": "Hello! ALERT Comprehensive Specialized Hospital is located at Zenebework, Kolfe Keranyo in Addis Ababa, Ethiopia (Source 2: hospital_overview).\n\nIf you need any further assistance or directions, please feel free to call us at +251 113 47 16 32."
+    },
+    {
+      "user": "Where is the hospital located?",
+      "assistant": "I'm experiencing technical difficulties. Please try again shortly or contact the hospital at +251 113 47 16 32."
+    },
+    {
+      "user": "Where is the hospital located?",
+      "assistant": "Hello! ALERT Comprehensive Specialized Hospital is located at Zenebework, Kolfe Keranyo in Addis Ababa, Ethiopia.\n\nIf you need any further assistance or directions, you can reach us at +251 113 47 16 32."
+    },
+    {
+      "user": "Where is the hospital located?",
+      "assistant": "Hello! ALERT Comprehensive Specialized Hospital is located at Zenebework, Kolfe Keranyo in Addis Ababa, Ethiopia.\n\nIf you need directions or further assistance, please feel free to call us at +251 113 47 16 32."
+    }
+  ],
+  "hospital-chat-session": [
+    {
+      "user": "when was the hospital established",
+      "assistant": "Hello! According to our information, ALERT Comprehensive Specialized Hospital was established in 1934. It was initially founded as a leprosarium by the Sudan Interior Mission (SIM) and was named Princess Zenebework Memorial Hospital.\n\n(Source: hospital_overview | ID: overview_2)"
+    },
+    {
+      "user": "what services do you offer",
+      "assistant": "Hello! ALERT Comprehensive Specialized Hospital is dedicated to enhancing the health and well-being of our community by providing a range of services (Source: mission_1).\n\nBased on the information I have, our services include:\n\n*   **Emergency and Critical Care Medicine:** Provided through our Integrated Trauma Care Center (Source: dept_3).\n*   **Neurosurgery:** Offered in conjunction with our trauma center (Source: dept_5).\n*   **Internal Medicine:** This department provides services for HIV/AIDS care, treatment, and prevention, as well as Tuberculosis treatment (Source: dept_7).\n\nIn addition to clinical care, our hospital is also a center for postgraduate medical education and impactful research (Source: mission_1).\n\nFor more detailed information on all our available services, please feel free to contact the hospital directly at +251 113 47 16 32."
+    },
+    {
+      "user": "when was the hospital established",
+      "assistant": "Hello! According to our information, ALERT Comprehensive Specialized Hospital was established in 1934. It was initially founded as a leprosarium by the Sudan Interior Mission (SIM) and was named Princess Zenebework Memorial Hospital.\n\n(Source: hospital_overview | ID: overview_2)"
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+[
+  {
+    "id": "overview_1",
+    "content": "ALERT COMPREHENSIVE SPECIALIZED HOSPITAL located at Zenebework, Kolfe Keranyo Addis Ababa, Ethiopia. Address: Zenebework, Kolfe Keranyo Addis Ababa, Ethiopia. Phone numbers: 6880, +251 113 47 16 32. Email: contact@alerthospital.gov.et.",
+    "section": "hospital_overview",
+    "category": "general_info",
+    "page": null
+  },
+  {
+    "id": "overview_2",
+    "content": "Established in 1934 as a leprosarium by the Sudan Interior Mission (SIM). Initially named Princess Zenebework Memorial Hospital. Designated as a WHO Collaborating Center for International Leprosy Training in 1988.",
+    "section": "hospital_overview",
+    "category": "history",
+    "page": null
+  },
+  {
+    "id": "mission_1",
+    "content": "Mission: To enhance the health and well-being of our community by providing Person-Centered, comprehensive clinical services, offering advanced care in selected specialties, postgraduate medical education, and conducting impactful research that shapes the future of healthcare.",
+    "section": "mission_vision_values",
+    "category": "mission",
+    "page": null
+  },
+  {
+    "id": "vision_1",
+    "content": "Vision: To be Africa's leading center of excellence in selected clinical services, research, and postgraduate medical education and training by 2030, while delivering comprehensive clinical services to meet broader healthcare needs.",
+    "section": "mission_vision_values",
+    "category": "vision",
+    "page": null
+  },
+  {
+    "id": "values_1",
+    "content": "Core Values: Person-Centered Care, Professionalism, Quality of Care, Excellence in Service, Teamwork.",
+    "section": "mission_vision_values",
+    "category": "core_values",
+    "page": null
+  },
+  {
+    "id": "dept_1",
+    "content": "Dermatovenerology: Supports leprosy referral centers across Ethiopia with expertise and supervision. The hospital aims to be a premier dermatology treatment center, with a historical focus on leprosy care. Category: Specialty.",
+    "section": "medical_services_departments",
+    "category": "Specialty",
+    "page": null
+  },
+  {
+    "id": "dept_2",
+    "content": "Plastic, Reconstructive and Hand Surgery: Serves as a national referral center for plastic, reconstructive, and hand surgery. It originally provided free medical treatment for leprosy patients. Category: Surgery.",
+    "section": "medical_services_departments",
+    "category": "Surgery",
+    "page": null
+  },
+  {
+    "id": "dept_3",
+    "content": "Emergency and Critical Care Medicine: A core component of the hospital's Integrated Trauma Care Center, providing emergency and critical care services. Category: Emergency.",
+    "section": "medical_services_departments",
+    "category": "Emergency",
+    "page": null
+  },
+  {
+    "id": "dept_4",
+    "content": "Orthopedics: Offers orthopedic surgery, with a special focus on trauma care as part of the hospital's Integrated Trauma Care Center. Category: Surgery.",
+    "section": "medical_services_departments",
+    "category": "Surgery",
+    "page": null
+  },
+  {
+    "id": "dept_5",
+    "content": "Neurosurgery: Provides neurosurgery services, particularly in conjunction with the hospital's trauma center. Category: Surgery.",
+    "section": "medical_services_departments",
+    "category": "Surgery",
+    "page": null
+  },
+  {
+    "id": "dept_6",
+    "content": "Ophthalmology: Focused on the diagnosis and treatment of eye disorders. Working to establish a Pediatric Eye Care Center. Category: Specialty.",
+    "section": "medical_services_departments",
+    "category": "Specialty",
+    "page": null
+  },
+  {
+    "id": "dept_7",
+    "content": "Internal Medicine: Provides services in HIV/AIDS care, treatment, prevention, and Tuberculosis treatment. Category: Medicine.",
+    "section": "medical_services_departments",
+    "category": "Medicine",
+    "page": null
+  },
+  {
+    "id": "dept_8",
+    "content": "General Surgery: Offers a wide range of surgical services to meet demand. Category: Surgery.",
+    "section": "medical_services_departments",
+    "category": "Surgery",
+    "page": null
+  },
+  {
+    "id": "dept_9",
+    "content": "Pediatrics and Child Health: Provides advanced pediatric treatments. Working towards establishing a Specialized Children's Hospital. Category: Specialty.",
+    "section": "medical_services_departments",
+    "category": "Specialty",
+    "page": null
+  },
+  {
+    "id": "dept_10",
+    "content": "Rehabilitation: Historically founded as a Rehabilitation Training Centre with focus on leprosy patients. Category: Support.",
+    "section": "medical_services_departments",
+    "category": "Support",
+    "page": null
+  },
+  {
+    "id": "dept_11",
+    "content": "Obstetrics and Gynecology. Category: Specialty.",
+    "section": "medical_services_departments",
+    "category": "Specialty",
+    "page": null
+  },
+  {
+    "id": "dept_12",
+    "content": "Family Medicine and Community Health. Category: Medicine.",
+    "section": "medical_services_departments",
+    "category": "Medicine",
+    "page": null
+  },
+  {
+    "id": "dept_13",
+    "content": "Psychiatry. Category: Mental Health.",
+    "section": "medical_services_departments",
+    "category": "Mental Health",
+    "page": null
+  },
+  {
+    "id": "dept_14",
+    "content": "Dentistry, Oral and Maxillofacial Surgery. Category: Surgery.",
+    "section": "medical_services_departments",
+    "category": "Surgery",
+    "page": null
+  },
+  {
+    "id": "dept_15",
+    "content": "Anesthesiology. Category: Medicine.",
+    "section": "medical_services_departments",
+    "category": "Medicine",
+    "page": null
+  },
+  {
+    "id": "dept_16",
+    "content": "Imaging and Radiology. Category: Diagnostics.",
+    "section": "medical_services_departments",
+    "category": "Diagnostics",
+    "page": null
+  },
+  {
+    "id": "appointments_1",
+    "content": "Appointment methods: phone. Phone numbers: 6880, +251 113 47 16 32.",
+    "section": "appointments_bookings",
+    "category": "booking_info",
+    "page": null
+  },
+  {
+    "id": "patient_info_1",
+    "content": "Patient Rights: Core Values emphasize 'Person-Centered Care' — prioritizing the unique needs, values, and preferences of each individual, and empowering patients to actively participate in healthcare decisions.",
+    "section": "patient_information_policies",
+    "category": "rights",
+    "page": null
+  },
+  {
+    "id": "patient_info_2",
+    "content": "Privacy Policy: A privacy policy link is available in the website footer, but contents are not provided.",
+    "section": "patient_information_policies",
+    "category": "privacy",
+    "page": null
+  },
+  {
+    "id": "staff_1",
+    "content": "Notable specialists: Dermatovenerology, Plastic, Reconstructive and Hand Surgery, Emergency and Critical Care Medicine, Orthopedic Surgery, Neurosurgery, Ophthalmology, Pediatrics and Child Health, Obstetrics and Gynecology, General Surgery, Internal Medicine, Mental Health and Rehabilitation Center, Dental and Maxillofacial, Anesthesiology, Critical Care and Pain Medicine.",
+    "section": "doctors_staff",
+    "category": "specialists",
+    "page": null
+  },
+  {
+    "id": "facilities_1",
+    "content": "Pharmacy services: Available under the Pharmacy Directorate. Laboratory services: Available under the Laboratory Directorate. Imaging/Radiology: Available under Imaging/Radiology Department.",
+    "section": "facilities_support_services",
+    "category": "services",
+    "page": null
+  },
+  {
+    "id": "facilities_2",
+    "content": "Support services: Psychiatry Department provides counseling and patient support.",
+    "section": "facilities_support_services",
+    "category": "support",
+    "page": null
+  },
+  {
+    "id": "contact_1",
+    "content": "Contact information: Phone: 6880, +251 113 47 16 32. Email: contact@alerthospital.gov.et. Contact form available on website.",
+    "section": "contact_online_presence",
+    "category": "contact_info",
+    "page": null
+  },
+  {
+    "id": "ceo_message_1",
+    "content": "Message from the CEO, Dr. Ismael Hassen: Welcome to ALERT Comprehensive Specialized Hospital, a cornerstone of healthcare in Ethiopia for nearly a century. We are dedicated to providing advanced medical care, education, and research while upholding our core values of Person-Centered Care, Professionalism, Quality, Excellence, and Teamwork. We are committed to a future of innovation and expansion, with projects like the Integrated Trauma Care Center and Specialized Children’s Hospital, aiming to become a leading medical hub in Africa.",
+    "section": "leadership_message",
+    "category": "ceo_message",
+    "page": "https://www.alerthospital.gov.et/about.php"
+  },
+  {
+    "id": "dermatovenerology_head_message_1",
+    "content": "Message from the Head of Dermatovenerology, Dr. Muneer Hussein Ali: Our department is at the forefront of dermatological care in Ethiopia, with a rich history in leprosy treatment and a vision to become a center of excellence. We offer specialized services, residency training, and impactful research, contributing to both patient care and medical knowledge in the field.",
+    "section": "leadership_message",
+    "category": "department_head_message",
+    "page": "https://www.alerthospital.gov.et/departments.php#dermatovenerology"
+  },
+  {
+    "id": "medical_service_director_message_1",
+    "content": "Message from the Medical Service Director, Dr. Addisu Admasu: The Medical Service Directorate is committed to ensuring the delivery of high-quality, compassionate, and patient-centered care across all clinical departments. We are focused on continuous improvement, integrating advanced medical technologies, and fostering a collaborative environment to meet the diverse healthcare needs of our community.",
+    "section": "leadership_message",
+    "category": "director_message",
+    "page": "https://www.alerthospital.gov.et/directorates.php#medical-service"
+  },
+  {
+    "id": "outpatient_info_1",
+    "content": "The Outpatient Department (OPD) at ALERT Hospital provides a wide range of services, including consultations with specialists, diagnostic procedures, and minor treatments. Our OPD is designed to be the first point of contact for patients, ensuring they receive timely and efficient care before being directed to specialized departments if necessary.",
+    "section": "medical_services_departments",
+    "category": "outpatient_services",
+    "page": "https://www.alerthospital.gov.et/services.php#outpatient"
+  },
+  {
+    "id": "cpd_center_1",
+    "content": "The Continuing Professional Development (CPD) Center at ALERT Hospital is dedicated to the ongoing education and training of healthcare professionals. We offer a variety of courses, workshops, and seminars to ensure our staff and the wider medical community stay abreast of the latest advancements in medical science and patient care.",
+    "section": "research_training",
+    "category": "training_program",
+    "page": "https://www.alerthospital.gov.et/training.php#cpd-center"
+  },
+  {
+    "id": "publication_1",
+    "content": "Publication: The Burden of Skin Diseases in Ethiopia",
+    "section": "news_events",
+    "category": "publication",
+    "page": "https://www.alerthospital.gov.et/training.php#publications"
+  },
+  {
+    "id": "publication_2",
+    "content": "Publication: Leprosy in the 21st Century",
+    "section": "news_events",
+    "category": "publication",
+    "page": "https://www.alerthospital.gov.et/training.php#publications"
+  },
+  {
+    "id": "publication_3",
+    "content": "Publication: Advances in Dermatological Surgery",
+    "section": "news_events",
+    "category": "publication",
+    "page": "https://www.alerthospital.gov.et/training.php#publications"
+  }
+]

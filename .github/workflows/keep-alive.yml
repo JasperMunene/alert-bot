@@ -2,7 +2,7 @@ name: Keep Render App Alive
 
 on:
   schedule:
-    - cron: "*/5 * * * *" # every 5 minutes
+    - cron: "*/10 * * * *" # every 10 minutes
   workflow_dispatch:
 
 jobs:
@@ -11,4 +11,5 @@ jobs:
     steps:
       - name: Ping health endpoint
         run: |
-          curl -s --retry 3 --max-time 20 --fail -o /dev/null -w "%{http_code}" https://alert-bot-or4s.onrender.com/health
+          HTTP_CODE=$(curl -s --retry 3 --max-time 20 --fail -w "%{http_code}" https://alert-bot-or4s.onrender.com/health)
+          echo "Health check returned $HTTP_CODE"

@@ -11,5 +11,4 @@ jobs:
     steps:
       - name: Ping health endpoint
         run: |
-          HTTP_CODE=$(curl -s --retry 3 --max-time 20 --fail -w "%{http_code}" https://alert-bot-or4s.onrender.com/health)
-          echo "Health check returned $HTTP_CODE"
+          curl -s --retry 3 --max-time 20 --fail -o /dev/null -w "%{http_code}" https://alert-bot-or4s.onrender.com/health
